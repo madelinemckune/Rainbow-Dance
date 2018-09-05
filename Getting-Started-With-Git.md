@@ -24,5 +24,5 @@ git add .
 
 Save The Changes:
 ```
-git commit -m "comment" #this saves the changes to the repo and adds a comment
+git commit -m "comment" #this saves the changes to the repo and adds a comment.
 ```
