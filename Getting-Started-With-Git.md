@@ -15,7 +15,7 @@ Create a New File:
 >"theNameOfTheFile.txt" # this is only for Git bash
 ```
 
-Edit The File in a Text Editor # atom is great!
+Edit The File in a Text Editor and Save # atom is great!
 
 Add the File to Your Local Repo:
 ```
@@ -24,5 +24,9 @@ git add .
 
 Save The Changes:
 ```
-git commit -m "comment" #this saves the changes to the repo and adds a comment.
+git commit -m "comment" # this saves the changes to the repo and adds a comment
+```
+Push The Changes To The Repo:
+```
+git push origin master #instead of master this could be the name of your branch
 ```
