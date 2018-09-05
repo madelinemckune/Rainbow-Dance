@@ -3,12 +3,12 @@
 Run the following:
 
 Change The Directory:
-```cd 
-Desktop/ # or wherever you would like to save the repository
+```
+cd Desktop/ # or wherever you would like to save the repository
 ```
 Clone The Repo:
-```git
-clone "https://therepositoryyouwanttoclone" # this pulls from the repository
+```
+git clone "https://therepositoryyouwanttoclone" # this pulls from the repository
 ```
 Create a New File:
 ```
@@ -17,7 +17,12 @@ Create a New File:
 
 Edit The File in a Text Editor # atom is great!
 
+Add the File to Your Local Repo:
+```
+git add .
+```
+
 Save The Changes:
-``` git
-commit -m "comment" #this saves the changes to the repo and adds a comment
+```
+git commit -m "comment" #this saves the changes to the repo and adds a comment
 ```
